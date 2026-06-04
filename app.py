@@ -43,6 +43,18 @@ def dashboard():
 <h1 class="text-center mb-5">
     Linux Monitoring Dashboard
 </h1>
+<div class="text-center mb-4">
+        <img src="/static/cr7.png"
+             class="img-fluid rounded shadow"
+             width="500"
+             alt="Cristiano Ronaldo">
+    </div>
+<div class="text-center mb-4">
+        <img src="/static/cr7.png"
+             class="img-fluid rounded shadow"
+             width="500"
+             alt="Cristiano Ronaldo">
+    </div>
 
 <div class="row">
 
